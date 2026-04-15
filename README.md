@@ -12,4 +12,4 @@ Week 4 - Added three Linux hosts, Linux router and connected them to the router.
 
 Week 5 - Added four Linux hosts and an OpenvSwitch, then connected them. The IP addresses were changed for the hosts, as well as two VLANs. Connectivity was tested. A router was then added, and two IP Subents were created. Two different VLANs were created then connectivity was tested. 
 
-Week 6 - 
+Week 6 - Using a previous GNS3 project with fours Linux hosts and a Switch, the ARP tables of hosts were looked at, then a ping between two devices was done, then the ARP table was re-examined.   A previous GNS3 project was used and added to, resulting in 4 Linux Hosts, 2 Switches and 2 Routers. Forwarding was enabled/disenabled for the routers and the hosts, then the IP addresses and routing tables were viewed for all routers and hosts. Connectivity between the two subnets was then tested

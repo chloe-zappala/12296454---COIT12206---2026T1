@@ -1,6 +1,6 @@
 Portfolio for Chloe Zappala 12296454
 
-All done in GNS3 with WireShark and FileZilla. 
+All done in GNS3 with WireShark, FileZilla and PuTTY. 
 
 Week 1 - Added and changed IP address of a Linux host using etc/network/interface. The IP was then checked in a seperate web console
 
@@ -17,3 +17,5 @@ Week 6 - Using a previous GNS3 project with fours Linux hosts and a Switch, the 
 Week 7 - Added 3 Linux Hosts, 1 switch and 1 OpenWRT. Connected all devices together using ehternet. Set DHCP IP addresses on all hosts. Changed DHCP server config, then used domains instead of IP addresses
 
 Week 8 - Added one Linux host, two Routers, two Switches and a Server. Set IP addresses and Gateways, tested connectivity through use of ping and subnet captures (Wireshark). Then deleted the FireFox host and added a Linux host. Ran commands in both Host 1 and a shell. Captured packets and used Wireshark. 
+
+Week 9- 

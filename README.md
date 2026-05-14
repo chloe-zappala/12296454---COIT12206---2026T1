@@ -18,4 +18,4 @@ Week 7 - Added 3 Linux Hosts, 1 switch and 1 OpenWRT. Connected all devices toge
 
 Week 8 - Added one Linux host, two Routers, two Switches and a Server. Set IP addresses and Gateways, tested connectivity through use of ping and subnet captures (Wireshark). Then deleted the FireFox host and added a Linux host. Ran commands in both Host 1 and a shell. Captured packets and used Wireshark. 
 
-Week 9- 
+Week 9 - Using last weeks project (Linux host, Server, two Routers and three Switches) and PuTTY a self-signed certificate was enabled for both HTTPS and HTTP
